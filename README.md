@@ -1,6 +1,4 @@
-# API Relay Signup Guide: Access Requirements, Pricing Checks and Referral Disclosures
-
-> **Affiliate disclosure:** The api.foo and TeamoRouter links below are our own affiliate links — signing up or topping up through them may earn us a commission or site credit. OneHop is linked to its official site only, because our own sign-up there was blocked and we have no authorized affiliate URL. Commercial relationships do not change our price methodology, listed drawbacks, or conclusions. Rewards are credited under each program's own rules — api.foo publishes cash withdrawal via Alipay/WeChat and TeamoRouter shows a withdrawable balance; we did not test a withdrawal on either, so treat that as a program term, not an outcome we verified.
+# API Relay Signup Guide: Access Requirements, Pricing Checks and Buying Notes
 
 ## The Answer First: Stop Hunting for the Lowest Multiplier
 
@@ -16,9 +14,8 @@ them we have registered and logged into ourselves, and both display a card (Stri
 A third station, **OneHop**, appears below only as a pricing-structure reference: it lists input, cache read, cache
 write and long-context tiers separately, which is the clearest structure of the three if you feed large codebases.
 We could not complete its sign-up (its anti-bot challenge never loaded for us), so we are **not** recommending it as a
-place to buy, and it carries no affiliate link from us.
-![OneHop public pricing page (snapshot 2026-11-02)](assets/onehop.ai-pricing.png)
 
+![OneHop public pricing page (snapshot 2026-11-02)](assets/onehop.ai-pricing.png)
 
 This is not a speed ranking. We have not made paid calls through any of them, so we will not tell you which is "fastest."
 
@@ -28,8 +25,6 @@ Our research log covers 13 candidate entries, not 13 completed sign-up attempts.
 
 That is why the three stations above are not at the same verification level — and we label which is which.
 **How far each one actually got:** api.foo and TeamoRouter both completed registration and login on our own account. OneHop never got past its anti-bot challenge on our side, so everything we say about OneHop here comes from its public pages, not from an account we hold. No station below has been topped up or called yet.
-
-**Direct entries:** [api.foo — sign up with our link](https://api.foo/sign-up?aff=J8aF) · [TeamoRouter — share via our link](https://teamorouter.com/share?i=e6d77aac74) · *(OneHop is discussed below as a pricing-structure reference only — it is not an entry point we recommend, and we have no authorized affiliate URL for it)*
 
 ### Can an English Reader Actually Register and Pay?
 
